@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: " https://lovysunny7.github.io/typoblog"
+url: "https://lovysunny7.github.io/typoblog"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
